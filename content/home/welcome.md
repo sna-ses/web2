@@ -20,5 +20,5 @@ design:
 
 <br>
 
-This research project proposes to analyze the generation of the scientific knowledge of/for socio-ecological sustainability (CSSE) in Latin America in the last 30 years, considering the structuring of the research network (among scientific actors, but also with non-scientific actors). These mechanisms make possible the formation of (in)visible colleges of the CSSE in Latin America and the knowledge production processes of the CSSE in Latin America.
+This research project proposes to analyze the generation of the scientific knowledge of/for socio-ecological sustainability (CSSE) in Latin America in the last 30 years, considering the structuring of the research network (among scientific actors, but also with non-scientific actors). 
 
