@@ -3,7 +3,7 @@
 ---
 title: About 
 date: 2020-12-02
-image:
+image: immo-wegmann-5PqBCWUtYbo-unsplash.jpg
   focal_point: 'top'
 ---
 
