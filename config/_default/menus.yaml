@@ -5,7 +5,7 @@
 
 main:
   - name: About us
-    url: tour
+    url: subpages
     weight: 10
   - name: News
     url: post
