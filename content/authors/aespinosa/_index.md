@@ -14,15 +14,14 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: He was an adjunct assistant professor, in which he taught courses related to social network analysis and computational social sciences at the Departments of Sociology (P. Catholic University of Chile and Alberto Hurtado University), Department of Computer Science (P. Catholic University of Chile), and Department of History (University of Santiago). 
-He hosts the podcast 'Knitting Networks' with Francisca Ortiz as some of his scientific activities. A podcast sponsored by the International Network for Social Network Analysis (INSNA). 
+bio: 
 
 interests:
-  - Sociology of networks
-  - Sociology of socio-cognitive scientific networks
-  - Multilayer networks
-  - Statistical network models
-  - Computational social science
+ - Sociology of networks
+ - Sociology of socio-cognitive scientific networks
+ - Multilayer networks
+ - Statistical network models
+ - Computational social science
 
 education:
   courses:
@@ -44,15 +43,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
- # - icon: twitter
- #   icon_pack: fab
- #   link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.cl/citations?user=P-1AZOoAAAAJ&hl=en
+    link: "https://scholar.google.cl/citations?user=P-1AZOoAAAAJ&hl=en"
   - icon: github
     icon_pack: fab
-    link: https://github.com/anespinosa
+    link: "https://github.com/anespinosa"
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
