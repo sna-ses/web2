@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   SNA-SES  
   Research Project
-hero_media: network.jpg
+hero_media: matthieu-joannon-AR9k5pHP0IQ-unsplash.jpg.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
