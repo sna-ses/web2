@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   SNA-SES  
   Research Project
-hero_media: photoholgic-_y4LGVTeBwQ-unsplash.jpg
+hero_media: kai-dahms-t--2nGjWLXc-unsplash.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
