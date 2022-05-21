@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Julien G. Vanhulst
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Sociology
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Universidad Católica del Maule (UCM, Chile)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Governance for sustainability
+  - Alternative economies
+  - Territories and geography of socio-environmental conflicts
+  - Sociology of sciences
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Environment
+      institution: Université Libre de Bruxelles (ULB)
+      year: 
+    - course: PhD in Sociology
+      institution: Universidad Alberto Hurtado (Chile)
+      year: 
+    - course: Master in Environmental Sciences and Management
+      institution: Institute of Environmental Sciences and Management (ULB)
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,10 +47,11 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=sGOz_P4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/JulienVanhulst
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +70,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+He is currently professor at the School of Sociology at the Universidad Católica del Maule (UCM, Chile) and a co-investigator of the SustENABLE Transformation program. He is co-founder and member of the Editorial Board of the academic journal Alternautas. His main areas of interest include: governance for sustainability, alternative economies, territories and geography of socio-environmental conflicts, and sociology of sciences.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
