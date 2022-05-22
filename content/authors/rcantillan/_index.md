@@ -6,11 +6,11 @@ title: Roberto Cantillan Carrasco
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Ph.D. candidate in Sociology
 
 # Organizations/Affiliations
 organizations:
-  - name: Pontificia Universidad Católica de Chile
+  - name: Pontificia Universidad Católica de Chile / redesLab
     url: 'http://redeslab.gitlab.io/'
 
 # Short bio (displayed in user profile at end of posts)
