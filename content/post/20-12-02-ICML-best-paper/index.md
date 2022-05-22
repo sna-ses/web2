@@ -1,5 +1,5 @@
 ---
-title: Codes for transform to long format (edgelist)
+title: Codes for transforming to long format (edge list)
 date: 2020-12-02
 image:
   focal_point: 'top'
