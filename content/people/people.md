@@ -22,6 +22,7 @@ content:
     - Administration
     - Visitors
     - Alumni
+    - Assistant
 design:
   show_interests: true
   show_role: true
