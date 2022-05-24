@@ -7,7 +7,7 @@ widget: blank
 active: true
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 30
@@ -22,7 +22,7 @@ design:
     image_darken: 0
     image_parallax: false
     image_position: center
-    image_size: cover
+    image_size: small
     text_color_light: true
   spacing:
     padding: ['50px', '50px', '50px', '50px']
