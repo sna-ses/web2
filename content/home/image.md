@@ -16,7 +16,7 @@ title:
 subtitle:
 
 design:
-  columns: '1'
+  columns: '2'
   background:
     image: logos1.png
     image_darken: 0
@@ -25,7 +25,7 @@ design:
     image_size: small
     text_color_light: true
   spacing:
-    padding: ['100px', '100px', '100px', '100px']
+    padding: ['200px', '200px', '200px', '200px']
 #advanced:
 #  css_class: fullscreen
 ---
