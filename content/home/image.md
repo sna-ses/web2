@@ -7,10 +7,10 @@ widget: blank
 active: true
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title:
 subtitle:
@@ -19,13 +19,13 @@ design:
   columns: '1'
   background:
     image: logos1.png
-    image_darken: 0
+    image_darken: 20
     image_parallax: false
     image_position: center
     image_size: small
     text_color_light: true
   spacing:
-    padding: ['50px', '50px', '50px', '50px']
-advanced:
-  css_class: fullscreen
+    padding: ['100px', '100px', '100px', '100px']
+#advanced:
+#  css_class: fullscreen
 ---
