@@ -22,10 +22,10 @@ design:
     image_darken: 20
     image_parallax: false
     image_position: center
-    image_size: small
+    image_size: large
     text_color_light: true
   spacing:
-    padding: ['10px', '0px', '10px', '10px']
+    padding: ['0px', '0px', '0px', '0px']
 #advanced:
 #  css_class: fullscreen
 ---
