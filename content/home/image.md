@@ -16,9 +16,9 @@ title:
 subtitle:
 
 design:
-  columns: '2'
+  columns: '1'
   background:
-    image: logos2.jpg
+    image: logos3.png
     image_darken: 0
     image_parallax: false
     image_position: center
