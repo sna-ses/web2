@@ -14,7 +14,7 @@ main:
     url: people
     weight: 30
   - name: Resources
-    url: event
+    url: subpages/resources
     weight: 40
   - name: Contact
     url: contact
