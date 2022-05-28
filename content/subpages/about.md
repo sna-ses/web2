@@ -1,5 +1,5 @@
 ---
-title: about 
+title: About. 
 date: 2020-12-02
 image: 
   focal_point: 'top'
@@ -7,6 +7,9 @@ image:
 
 
 # Starting point
+
+![screen reader text](plan.jpg "")
+
 
 The “Great Acceleration” observed since the middle of the 20th century – that is, the generalization of exponential growth trends of socially and ecologically unsustainable activities and processes – shows that the dynamic balances of biogeochemical systems depend on the regulation of the social world, as clearly expressed by the idea of ​​the “Anthropocene”. 
 From the years 1960-to 70, in this context of the Anthropocene, the problem of socio-ecological sustainability arose, and new programs were opened from the academy with a double purpose:
