@@ -8,7 +8,7 @@ image:
 
 # Starting point
 
-![screen reader text](plan.jpg "")
+![plant](plan.jpg "")
 
 
 The “Great Acceleration” observed since the middle of the 20th century – that is, the generalization of exponential growth trends of socially and ecologically unsustainable activities and processes – shows that the dynamic balances of biogeochemical systems depend on the regulation of the social world, as clearly expressed by the idea of ​​the “Anthropocene”. 
