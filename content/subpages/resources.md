@@ -8,6 +8,6 @@ In this section of our website you will be able to access a variety of resources
 At the moment the resources available are the following:
 
 - [Introduction to network analysis with R](https://github.com/anespinosa/cts-chile)
-- [Workshops Exponential Random Graph Models (RLARS 2021)](https://www.google.com](https://github.com/anespinosa/ergms-rlars-2021)
+- [Workshops Exponential Random Graph Models (RLARS 2021)](https://github.com/anespinosa/ergms-rlars-2021)
 
 
