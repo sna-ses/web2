@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Julien G. Vanhulst
+title: Julien Vanhulst
 
 # Is this the primary user of the site?
 superuser: false
