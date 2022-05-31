@@ -6,7 +6,7 @@ title: Roberto Cantillan Carrasco
 superuser: true
 
 # Role/position
-role: Ph.D. candidate in Sociology
+role: Ph.D. student in Sociology.
 
 # Organizations/Affiliations
 organizations:
