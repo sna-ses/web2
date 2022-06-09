@@ -31,9 +31,6 @@ education:
     - course: Master in Sociology
       institution: Pontificia Universidad católica de Chile
       year: 
-    - course: Master in Environmental Sciences and Management
-      institution: Institute of Environmental Sciences and Management (ULB)
-      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
