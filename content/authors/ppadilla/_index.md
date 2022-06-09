@@ -1,39 +1,35 @@
 ---
 # Display name
-title: Alejandro Espinosa-Rada
+title: Patricio Padilla Navarro
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Professor of Sociology
 
 # Organizations/Affiliations
 organizations:
-  - name: the Social Networks Lab in ETH Zürich
+  - name: Universidad de La Frontera in the School of Sociology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
- - Sociology of networks
- - Sociology of socio-cognitive scientific networks
- - Multilayer networks
- - Statistical network models
- - Computational social science
+ - Sociology of sciences
+ - Sociology of development
+ - Technology transfer
 
 education:
   courses:
-    - course: PhD in Sociology
-      institution: Mitchell Centre for Social Network Analysis at the University of Manchester
+    - course: Doctorate in Social Sciences 
+      institution: Universidad de La Frontera (UFRO, Chile)
       year: 
-    - course: Master in Sociology
-      institution: Pontificia Universidad católica de Chile
+    - course: Doctorate in Communication
+      institution: Universidad de La Frontera (UFRO, Chile)
       year: 
-    - course: Master in Environmental Sciences and Management
-      institution: Institute of Environmental Sciences and Management (ULB)
-      year: 
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,7 +41,7 @@ social:
     link: 'mailto:test@example.org'
   - icon: google-scholar
     icon_pack: ai
-    link: "https://scholar.google.cl/citations?user=P-1AZOoAAAAJ&hl=en"
+    link: "https://scholar.google.com/citations?user=_paP3-MAAAAJ&hl=es"
   - icon: github
     icon_pack: fab
     link: "https://github.com/anespinosa"
@@ -68,4 +64,5 @@ user_groups:
   - Researchers
 ---
 
-Alejandro Espinosa-Rada is a Postdoctoral Researcher at the Social Networks Lab in ETH Zürich. Before arriving in Zürich, he did his PhD in Sociology at the Mitchell Centre for Social Network Analysis at the University of Manchester. The thesis was supervised by Dr Elisa Bellotti, Prof Martin Everett, and Dr Termeh Shafie. Also, he was an adjunct assistant professor, in which he taught courses related to social network analysis and computational social sciences at the Departments of Sociology (P. Catholic University of Chile and Alberto Hurtado University), Department of Computer Science (P. Catholic University of Chile), and Department of History (University of Santiago). He hosts the podcast 'Knitting Networks' with Francisca Ortiz as some of his scientific activities. A podcast sponsored by the International Network for Social Network Analysis (INSNA). And as part of his research, he is interested in topics related to the sociology of networks, the sociology of socio-cognitive scientific networks, multilayer networks, statistical network models, and computational social science. Likewise, he is the co-editor with Francisca Ortiz of the 'Handbook of Social Network Analysis in Latin America' (in Press).
+Patricio Padilla is sociologist, Doctor in Sociology. Professional at the Institute of Local and Regional Development, Universidad de La Frontera (UFRO, Chile). Professor at the Universidad de La Frontera in the School of Sociology, Doctorate in Social Sciences and Doctorate in Communication.
+His main areas of interest include: sociology of sciences, sociology of development and technology transfer.
