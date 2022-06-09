@@ -44,7 +44,7 @@ social:
     link: "https://scholar.google.com/citations?user=_paP3-MAAAAJ&hl=es"
   - icon: github
     icon_pack: fab
-    link: "https://github.com/anespinosa"
+    link: ""
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
