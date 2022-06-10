@@ -11,7 +11,7 @@ role: Professor of Sociology
 # Organizations/Affiliations
 organizations:
   - name: Universidad Católica del Maule (UCM, Chile)
-    url: ''
+    url: 'https://portal.ucm.cl/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -41,10 +41,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'julien@ucm.cl'
+  - icon: researchgate
+    icon_pack: ai
+    link: "https://www.researchgate.net/profile/Julien-Vanhulst"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=sGOz_P4AAAAJ&hl=en
