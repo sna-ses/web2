@@ -6,11 +6,11 @@ title: Patricio Padilla Navarro
 superuser: false
 
 # Role/position
-role: Professor of Sociology
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de La Frontera in the School of Sociology
+  - name: Institute of Local and Regional Development, Universidad de La Frontera.
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,10 +23,10 @@ interests:
 
 education:
   courses:
-    - course: Doctorate in Social Sciences 
-      institution: Universidad de La Frontera (UFRO, Chile)
+    - course: PhD in Sociology
+      institution: ,Universidad Alberto Hurtado (Chile)
       year: 
-    - course: Doctorate in Communication
+    - course: Sociology
       institution: Universidad de La Frontera (UFRO, Chile)
       year: 
 
