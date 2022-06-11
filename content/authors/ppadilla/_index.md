@@ -24,7 +24,7 @@ interests:
 education:
   courses:
     - course: PhD in Sociology
-      institution: ,Universidad Alberto Hurtado (Chile)
+      institution: Universidad Alberto Hurtado (Chile)
       year: 
     - course: Sociology
       institution: Universidad de La Frontera (UFRO, Chile)
