@@ -63,6 +63,5 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
+Patricio Padilla is sociologist, PhD in Sociology. Professional at the Institute of Local and Regional Development, Universidad de La Frontera (UFRO, Chile). Professor at the Universidad de La Frontera in the School of Sociology, PhD in Social Sciences and PhD in Communication. His main areas of interest include: sociology of sciences, sociology of development and technology transfer.
 
-Patricio Padilla is sociologist, Doctor in Sociology. Professional at the Institute of Local and Regional Development, Universidad de La Frontera (UFRO, Chile). Professor at the Universidad de La Frontera in the School of Sociology, Doctorate in Social Sciences and Doctorate in Communication.
-His main areas of interest include: sociology of sciences, sociology of development and technology transfer.
