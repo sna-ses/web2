@@ -18,14 +18,14 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: logos7.png
+    image: logos9.png
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: small
     text_color_light: true
   spacing:
-    padding: ['400px', '200px', '200px', '200px']
+    padding: ['200px', '200px', '200px', '200px']
 #advanced:
 #  css_class: fullscreen
 ---
