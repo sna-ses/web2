@@ -47,6 +47,22 @@ header:
     show_search: true
     # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
     highlight_active_link: true
+    
+    
+############################
+## FOOTER
+############################
+
+footer:
+  copyright:
+    notice: '© {year} Me. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: true
+      share_alike: true
+      allow_commercial: false
+  # For multilingual sites, show a language chooser in the footer?
+  show_translations: true
 
 
 ############################
