@@ -64,5 +64,6 @@ user_groups:
   - Assistant
 ---
 
-My doctoral research uses a structural and network perspective to study the configuration of socio-political inequalities in Chile during the last ten years. In particular, I am interested in analyzing the joint deployment of homophily and consolidation (as mechanisms that skew the probability of bond formation) and their effect on patterns of interaction and diffusion of resources between social groups. For this, I use data from the Social Longitudinal Study of Chile (ELSOC), specifically, the instruments that measure personal networks and voluntary-associative behavior. I am especially interested in statistical models for egocentric networks, and multilevel and causal analysis with public opinion data.
+I am a doctoral candidate in Sociology at the Pontificia Universidad Católica de Chile. My research interests lie at the intersection of economic sociology, social stratification, and network science. My doctoral research uses a structural and network perspective to analyze the patterns of mobility, diffusion, and segregation in labor markets from an intragenerational viewpoint.
+
 
