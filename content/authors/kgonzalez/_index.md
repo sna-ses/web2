@@ -38,7 +38,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'karla.gonzalez@alu.ucm.cl'
   - icon: google-scholar
     icon_pack: ai
     link: 
