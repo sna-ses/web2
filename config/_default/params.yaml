@@ -18,8 +18,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    org_name: 'SNA-SSLA'
+    description: 'Analyzing Latin American socio-ecological sustainability research networks and knowledge production over three decades.'
     #twitter: 'wowchemy'
   #analytics:
     #google_analytics: ''
