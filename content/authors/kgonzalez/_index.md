@@ -41,7 +41,7 @@ social:
     link: 'karla.gonzalez@alu.ucm.cl'
   - icon: google-scholar
     icon_pack: ai
-    link: 
+    link: https://scholar.google.com/citations?user=t6TenD4AAAAJ&hl=es
   - icon: github
     icon_pack: fab
     link: 
