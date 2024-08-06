@@ -18,8 +18,8 @@ bio:
 
 interests:
   - Social inequalities
+  - Inequalities in labor markets
   - Social capital and networks
-  - Statistical models for ego-centric networks
   - Multilevel and causal analysis 
 
 education:
