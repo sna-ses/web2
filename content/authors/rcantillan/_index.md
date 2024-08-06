@@ -10,8 +10,8 @@ role: Ph.D. candidate in Sociology.
 
 # Organizations/Affiliations
 organizations:
-  - name: Pontificia Universidad Católica de Chile / redesLab
-    url: 'http://redeslab.gitlab.io/'
+  - name: Pontificia Universidad Católica de Chile
+    url: 'https://rcantillan.rbind.io/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
