@@ -28,7 +28,7 @@ interests:
 education:
   courses:
     - course: Sociology
-      institution:Universidad Católica del Maule
+      institution: Universidad Católica del Maule
       year: 2018
 
 # Social/Academic Networking
